@@ -1,3 +1,0 @@
-# BootstrapActivity
-Bootstrap website activity
-
